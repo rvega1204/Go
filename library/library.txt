@@ -1,0 +1,1 @@
+This Go program demonstrates object-oriented concepts like interfaces and polymorphism. It defines a Book and TextBook structure with methods for setting and printing details. It also implements an Animal interface, with Perro and Gato structs that make different sounds. The program shows how to use interfaces to handle different types and call their methods in a unified way.
