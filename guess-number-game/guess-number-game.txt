@@ -1,0 +1,2 @@
+This is a simple number guessing game built with Go.
+In this game, a random number is generated, and the player has to guess it within a certain number of attempts. You can play the game as is, or modify the code to suit your needs. Feel free to explore, tweak the logic, or add new features!
