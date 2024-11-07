@@ -1,0 +1,2 @@
+This is a small project built with Go and MySQL that implements a simple CRUD (Create, Read, Update, Delete) system for managing contacts.
+You can use it to test, modify, or extend the functionality as needed. The project serves as a practical example of how to work with Go and MySQL to build a basic contact management system. Feel free to experiment with the code, adapt it for your own use, or enhance it with additional features.
