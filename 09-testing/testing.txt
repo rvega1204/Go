@@ -1,0 +1,23 @@
+This is a simple guide for testing in Go. Begin by creating your go.mod file, then you can run the following commands:
+
+go test -coverprofile=coverage.out
+Generates a coverage.out file containing test coverage data.
+
+go tool cover -func=coverage.out
+Displays the percentage of code covered by the tests.
+
+go tool cover -html=coverage.out
+Generates an HTML file with a visual overview of the coverage data.
+
+go test
+Runs all tests in your project.
+
+go test -cpuprofile=cou.out
+Creates a cou.out file with CPU profiling data.
+
+go tool pprof cou.out
+Opens an interactive session using pprof.
+
+Type top to see a summary report, or quit to exit.
+Type web to generate an SVG report or pdf to create a PDF report with detailed profiling information.
+Note: For some reports, you may need to install Graphviz.
