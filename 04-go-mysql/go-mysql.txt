@@ -1,0 +1,8 @@
+This is a Go-based CRUD example.
+
+Setup Instructions
+Install MySQL on your local machine.
+Install the MySQL driver for Go: Check Go SQL Drivers for installation details.
+Create a go.mod file in your project directory to manage dependencies.
+Check out usage examples in main.go to see CRUD operations in action.
+Enjoy exploring and building with Go!
