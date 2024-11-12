@@ -1,0 +1,9 @@
+This is a simple REST API (CRUD) built with Go, GORM ORM, and MySQL. It is based on the previous example, 05-api-rest.
+
+Prerequisites
+Before running the application, make sure you have the following installed:
+
+Go
+MySQL
+Air (for live-reloading during development)
+GORM (as the ORM for interacting with MySQL)
