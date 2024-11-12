@@ -1,0 +1,9 @@
+Simple API-Rest Example with Go, Mux, and MySQL
+This is a simple RESTful API built using Go and the Mux router. It provides basic CRUD operations (Create, Read, Update, Delete) for managing users. The API communicates with a MySQL database to store and retrieve user data(and sql driver).
+
+Prerequisites:
+Before running the API, you will need:
+
+Go installed on your system (version 1.18 or higher).
+MySQL database with the same structure as in the previous example: 04-go-mysql.
+Air for automatic code reloading during development. Air can be installed from its GitHub repository.
